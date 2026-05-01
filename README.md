@@ -1,0 +1,1 @@
+# divergance_ea_mt5
